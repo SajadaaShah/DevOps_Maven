@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: administrator
+Build-Jdk: 17.0.10
+Main-Class: kaamkaj.Calculator
+Created-By: Maven Integration for Eclipse
+
